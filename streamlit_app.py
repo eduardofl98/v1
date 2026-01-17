@@ -12,7 +12,7 @@ import streamlit as st
 # -----------------------------
 # CONFIG
 # -----------------------------
-APP_TITLE = "AI Training & Loss Aversion (Lottery Experiment)"
+APP_TITLE = "AI Training & Loss Aversion (Lottery Experiment) LOLOLO"
 N_PRE = 3
 N_TRAIN = 5
 N_POST = 2
