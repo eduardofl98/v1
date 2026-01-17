@@ -1,13 +1,5 @@
 import streamlit as st
 
-st.title("Mi primera app")
-st.write("Si ves esto, Streamlit funciona")
-
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
-
 import time
 import uuid
 import random
