@@ -13,9 +13,9 @@ import streamlit as st
 # CONFIG
 # -----------------------------
 APP_TITLE = "AI Training & Loss Aversion (Lottery Experiment)"
-N_PRE = 40
-N_TRAIN = 25
-N_POST = 40
+N_PRE = 3
+N_TRAIN = 5
+N_POST = 2
 
 # If you later connect an LLM, you can switch this on
 USE_LLM = False
